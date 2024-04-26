@@ -1,4 +1,3 @@
-time
 speech_recognition
 dotenv
 langchain
