@@ -2,4 +2,5 @@ os,
 openai,
 streamlit,
 time,
-speech_recognition
+speech_recognition,
+dotenv
