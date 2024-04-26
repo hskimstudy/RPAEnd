@@ -1,7 +1,5 @@
-os,
-openai==0.25.0,
+openai,
 streamlit,
 time,
 speech_recognition,
-streamlit==1.33,
-requests,
+streamlit
