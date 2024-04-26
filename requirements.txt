@@ -1,5 +1,5 @@
-time==1.0
-speech_recognition==1.0
+time
+speech_recognition
 dotenv
 langchain
 streamlit
