@@ -1,5 +1,5 @@
+os,
 openai,
 streamlit,
 time,
-speech_recognition,
-streamlit
+speech_recognition
