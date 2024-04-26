@@ -3,3 +3,4 @@ streamlit
 time
 speech_recognition
 dotenv
+python == 3.5
