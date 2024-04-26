@@ -1,5 +1,5 @@
 openai==0.25.0
-streamlit,
-time,
-speech_recognition,
+streamlit
+time
+speech_recognition
 dotenv
