@@ -4,8 +4,7 @@ import streamlit as st
 import time
 import speech_recognition as sr
 
-config = toml.load("config.toml")
-API_KEY = config["openai"]["api_key"]
+API_KEY = ["openai"]["api_key"]
 
 client = OpenAI(api_key=API_KEY)
 
