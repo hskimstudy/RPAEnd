@@ -4,8 +4,6 @@ import streamlit as st
 import time
 import speech_recognition as sr
 
-os.environ['OPENAI_API_KEY'] = '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'
-
 API_KEY = os.getenv('OPENAI_API_KEY')
 client = OpenAI(api_key=API_KEY)
 
