@@ -5,9 +5,8 @@ import time
 import speech_recognition as sr
 from dotenv import load_dotenv
 
-load_dotenv()
 
-API_KEY = os.getenv('OPENAI_API_KEY')
+API_KEY = load_dotenv('OPENAI_API_KEY')
 if API_KEY is None:
     raise ValueError("API 키가 설정되지 않았습니다. 환경 변수 'OPENAI_API_KEY'를 확인하세요.")
 
