@@ -4,7 +4,7 @@ import streamlit as st
 import time
 import speech_recognition as sr
 
-API_KEY = ["openai"]["api_key"]
+API_KEY = ["openai"]
 
 client = OpenAI(api_key=API_KEY)
 
