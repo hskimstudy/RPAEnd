@@ -1,0 +1,7 @@
+os,
+openai==0.25.0,
+streamlit,
+time,
+speech_recognition,
+streamlit==1.33,
+requests,
