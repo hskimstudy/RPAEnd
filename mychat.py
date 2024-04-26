@@ -4,6 +4,7 @@ import streamlit as st
 import time
 import speech_recognition as sr
 from dotenv import load_dotenv
+# 여기
 
 
 API_KEY = load_dotenv('OPENAI_API_KEY')
